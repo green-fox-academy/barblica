@@ -2,7 +2,7 @@
 public class AgeCounter {
 
     public String count(int age, int month) {
-        return String.valueOf(age) + String.valueOf(month);
+        return "Age and month: " + String.valueOf(age) + " " + String.valueOf(month);
     }
 
     public static void main(String[] args) {
