@@ -11,5 +11,6 @@ public class AgeCounter {
         int age = 27;
         int month = 8;
         System.out.println(counter.count(age, month));
+        System.out.println("Cheer for the parameter");
     }
 }
