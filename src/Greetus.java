@@ -1,7 +1,9 @@
 public class Greetus {
 
     public String Greet(String greet) {
-        greet = "Hello Barbi";
-        return greet + "Hiii Lica!";
+
+        greet = "Hello Barbi!" + " Hii Lica!";
+        return greet;
+
     }
 }
