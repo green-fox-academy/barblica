@@ -5,5 +5,5 @@ public class Greetus {
         return greet;
     }
 
-    
+
 }
