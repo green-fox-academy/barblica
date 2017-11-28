@@ -4,6 +4,6 @@ public class Greetus {
 
         greet = "Hello Barbi!";
         greetb = "Hii Lica!";
-        return greet + greetb;
+        return "Greetings for: " +  greet + greetb;
     }
 }
